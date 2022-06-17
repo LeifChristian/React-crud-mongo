@@ -1,0 +1,19 @@
+input {
+    max-width: 6%;
+    border-radius: 1em;
+    margin: 1em;
+    font-weight: 600;
+}
+
+
+button {
+    border-radius: 1em;
+    margin: 1em;
+    font-weight: 600;
+}
+
+#submitButton {
+    border-radius: 1em;
+}
+
+
